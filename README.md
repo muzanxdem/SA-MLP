@@ -139,3 +139,10 @@ num_epochs: 20
 - `onnx>=1.20.0`, `onnxruntime>=1.23.2`
 - `wandb>=0.23.1`, `torchmetrics==0.9.3`
 
+## Wandb Evaluation
+![Val Loss](MLP-fig/Val_Loss.png)
+![Train Loss](MLP-fig/Train_Loss.png)
+![Learning Rate](MLP-fig/Learning_Rate.png)
+![Accuracy](MLP-fig/Accuracy.png)
+
+
