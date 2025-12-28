@@ -60,7 +60,7 @@ uv run onnxtest.py
 ## Project Structure
 
 ```
-SAAssignment2025/
+SA-MLP/
 ├── data/SAAssignment2025/     # Data preprocessing
 │   ├── preprocess_csv.py
 │   ├── train.npy, test.npy, val.npy
