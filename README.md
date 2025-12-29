@@ -32,6 +32,10 @@ pip install torch torchvision numpy pandas scikit-learn matplotlib wandb onnx on
 
 ## Quick Start
 
+### 0. Dataset
+Dataset from huggingface
+URL: https://huggingface.co/datasets/mteb/tweet_sentiment_extraction
+
 ### 1. Preprocess Data
 ```bash
 cd data/SAAssignment2025
